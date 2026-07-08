@@ -79,8 +79,8 @@ CRM with Groq-powered sentiment analysis and a scikit-learn lead scoring model a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=Devadharshinil0-hub&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Devadharshinil0-hub&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-deva20.vercel.app/api?username=Devadharshinil0-hub&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-deva20.vercel.app/api/top-langs/?username=Devadharshinil0-hub&layout=compact&theme=radical" />
 </p>
 
 ---
