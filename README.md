@@ -76,15 +76,6 @@ CRM with Groq-powered sentiment analysis and a scikit-learn lead scoring model a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Devadharshini10-hub&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devadharshini10-hub&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 <p align="center">
