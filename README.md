@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/Devadharshini-D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dharsinidhandapani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Devadharshinil0-hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Devadharshini10-hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -79,8 +79,8 @@ CRM with Groq-powered sentiment analysis and a scikit-learn lead scoring model a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-deva20.vercel.app/api?username=Devadharshinil0-hub&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-deva20.vercel.app/api/top-langs/?username=Devadharshinil0-hub&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-deva20.vercel.app/api?username=Devadharshini10-hub&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-deva20.vercel.app/api/top-langs/?username=Devadharshini10-hub&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -90,5 +90,5 @@ CRM with Groq-powered sentiment analysis and a scikit-learn lead scoring model a
 <p align="center">
   <a href="https://linkedin.com/in/Devadharshini-D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dharsinidhandapani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Devadharshinil0-hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Devadharshini10-hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
 </p>
